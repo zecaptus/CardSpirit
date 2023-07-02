@@ -1,22 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="./avatar.webp" className="App-logo" alt="logo" />
+        <code>En cours de développement</code>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          En attendant, retrouvez nous sur &nbsp;
+          <a className="App-link" href="https://app.voggt.com/fr/Lavirle">
+            Voggt
+          </a>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
