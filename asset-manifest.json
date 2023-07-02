@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CardSpirit/static/css/main.533ad3a0.css",
+    "main.js": "/CardSpirit/static/js/main.a621619c.js",
+    "static/js/787.4bedb8ea.chunk.js": "/CardSpirit/static/js/787.4bedb8ea.chunk.js",
+    "index.html": "/CardSpirit/index.html",
+    "main.533ad3a0.css.map": "/CardSpirit/static/css/main.533ad3a0.css.map",
+    "main.a621619c.js.map": "/CardSpirit/static/js/main.a621619c.js.map",
+    "787.4bedb8ea.chunk.js.map": "/CardSpirit/static/js/787.4bedb8ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533ad3a0.css",
+    "static/js/main.a621619c.js"
+  ]
+}
