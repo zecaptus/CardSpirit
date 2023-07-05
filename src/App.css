@@ -8,16 +8,27 @@
 }
 
 .App-header {
-  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: #282c34;
+  color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+img {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 300px;
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(45deg, #acb6e5, #86fde8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
