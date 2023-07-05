@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CardSpirit/static/css/main.8d2b731f.css",
-    "main.js": "/CardSpirit/static/js/main.fa3be920.js",
+    "main.css": "/CardSpirit/static/css/main.5cbffe35.css",
+    "main.js": "/CardSpirit/static/js/main.05cb9564.js",
     "static/js/787.4bedb8ea.chunk.js": "/CardSpirit/static/js/787.4bedb8ea.chunk.js",
     "static/media/wip.png": "/CardSpirit/static/media/wip.3533360dc18913361592.png",
     "static/media/Kardust Expanded Bold Italic.otf": "/CardSpirit/static/media/Kardust Expanded Bold Italic.f57da6cbd580ca863ebc.otf",
@@ -9,13 +9,14 @@
     "static/media/Kardust Italic.otf": "/CardSpirit/static/media/Kardust Italic.80567dc65414e98f5f16.otf",
     "static/media/Kardust.otf": "/CardSpirit/static/media/Kardust.ca5367bbcdb98e6e8ad8.otf",
     "static/media/Kardust Bold.otf": "/CardSpirit/static/media/Kardust Bold.adc77f9dc6a253886ba1.otf",
+    "static/media/coffret-dresseur-d-elite-ecarlate-et-violet-evolutions-a-paldea-fr.jpg": "/CardSpirit/static/media/coffret-dresseur-d-elite-ecarlate-et-violet-evolutions-a-paldea-fr.f5351bc904cd2b0c35de.jpg",
     "index.html": "/CardSpirit/index.html",
-    "main.8d2b731f.css.map": "/CardSpirit/static/css/main.8d2b731f.css.map",
-    "main.fa3be920.js.map": "/CardSpirit/static/js/main.fa3be920.js.map",
+    "main.5cbffe35.css.map": "/CardSpirit/static/css/main.5cbffe35.css.map",
+    "main.05cb9564.js.map": "/CardSpirit/static/js/main.05cb9564.js.map",
     "787.4bedb8ea.chunk.js.map": "/CardSpirit/static/js/787.4bedb8ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d2b731f.css",
-    "static/js/main.fa3be920.js"
+    "static/css/main.5cbffe35.css",
+    "static/js/main.05cb9564.js"
   ]
 }
