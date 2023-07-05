@@ -42,12 +42,11 @@ const theme = createTheme({
       contrastText: '#000000',
     },
     gradient: {
-      primary:
-        'linear-gradient(90deg, rgba(24,22,52,1) 0%, rgba(134,45,165,1) 50%, rgba(61,101,137,1) 87.5%)',
+      primary: 'linear-gradient(90deg, #185690 0%, #862DA5 50%, #3D6589 87.5%)',
       secondary:
         'linear-gradient(90deg, rgba(4,255,255,1) 0%, rgba(134,45,165,1) 40%, rgba(255,65,156,1) 80%)',
       primary90:
-        'linear-gradient(0deg, rgba(24,22,52,1) 0%, rgba(134,45,165,1) 50%, rgba(61,101,137,1) 87.5%)',
+        'linear-gradient(0deg, #185690 0%, #862DA5 50%, #3D6589 87.5%)',
       secondary90:
         'linear-gradient(0deg, rgba(4,255,255,1) 0%, rgba(134,45,165,1) 40%, rgba(255,65,156,1) 80%)',
     },
